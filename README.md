@@ -17,14 +17,13 @@ A powerful and flexible web scraping toolkit with multiple scraping methods and 
   - HTML cleaning and structuring
   
 - **User-Friendly Interface**:
-  - Beautiful Streamlit UI
+  - Streamlit UI
   - Progress tracking
   - Results visualization
   - Preview scraped content
 
 - **Output Options**:
   - Markdown file generation
-  - Domain-specific organization
   - Clean, well-formatted content
 
 ## Installation
