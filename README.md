@@ -30,7 +30,7 @@ A powerful and flexible web scraping toolkit with multiple scraping methods and 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/LeBotFrancais/crawl4ai-web-scraper.git
+git clone https://github.com/francoisbonnisseau/web-scraper-for-llm.git
 cd crawl4ai-web-scraper
 ```
 
