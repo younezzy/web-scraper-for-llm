@@ -1,8 +1,7 @@
 # Crawl4AI Web Scraper
 
-A powerful and flexible web scraping toolkit with multiple scraping methods and a user-friendly Streamlit interface.
+A powerful and flexible web scraping toolkit with multiple scraping methods and a Streamlit interface.
 
-![Scraper UI](https://raw.githubusercontent.com/LeBotFrancais/assets/main/web_scraper_ui.png)
 
 ## Features
 
